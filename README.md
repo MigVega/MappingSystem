@@ -78,11 +78,11 @@ If you use this project or its 3D parts for academic research, please make sure 
 - [Cite our paper](https://arxiv.org/abs/2409.15253)
 - [Cite also this resource](https://mediatum.ub.tum.de/1459253?show_id=1750434)
   
-```bibtext
+```bibtex
 @inbook{MountingSystem2024:vega:paper,
   doi = {10.13154/294-10094},
   url = {https://hss-opus.ub.ruhr-uni-bochum.de/opus4/10094},
-  author = {Vega Torres, Miguel Arturo and Pfitzner, Fabian},
+  author = {Vega-Torres, Miguel Arturo and Pfitzner, Fabian},
   language = {en},
   title = {Investigating robot dogs for construction monitoring},
   publisher = {Ruhr-Universität Bochum},
